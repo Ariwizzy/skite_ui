@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1001678239710",
+    "project_id": "og-store-75daf",
+    "storage_bucket": "og-store-75daf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001678239710:android:971818e2d2e930f3db4f4f",
+        "android_client_info": {
+          "package_name": "com.ogdev.skite_ui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1001678239710-3hnv8moqu53rb5qpqoa76rmttrg9ii9f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_P5DwXv5_TtIUOkNidaRM30OQR2J2HwQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1001678239710-3hnv8moqu53rb5qpqoa76rmttrg9ii9f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
